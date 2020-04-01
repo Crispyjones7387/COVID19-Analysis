@@ -16,6 +16,6 @@
 
 4.XRAY Analysis using Keras VGG19
   A.
-![XRAY Analysis using Keras VGG19](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Accuracy.png)
+![XRAY Analysis](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Accuracy.png)
   B.
-![XRAY Analysis using Keras VGG19-1](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Loss.png)
+![XRAY Analysis](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Loss.png)
