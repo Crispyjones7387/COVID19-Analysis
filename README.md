@@ -10,3 +10,9 @@
 
 3.TimeSeries Forecasting using various techniques on COVID19 global dataset
 ![TimeSeries Forecasting on COVID19 global dataset](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/Time%20series%20forecasting/fit.JPG)
+
+
+4.XRAY Analysis using Keras VGG19
+![XRAY Analysis using Keras VGG19](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Accuracy.png)
+![XRAY Analysis using Keras VGG19](https://github.com/Crispyjones7387/COVID19-Analysis/blob/master/XRAY%20Analysis%20using%20VGG19/Training%20Loss.png)
+
